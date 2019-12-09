@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/01.Scenes/Main.unity
+    guid: d26b2d8691f9c534d942e3c92b53cd98
+  - enabled: 1
+    path: Assets/01.Scenes/LastManStanding.unity
+    guid: 12a4d75da2db4d3439c09e07c73a85b2
+  - enabled: 1
+    path: Assets/01.Scenes/Die.unity
+    guid: 46394d38d36d51f40895ef3689754649
+  - enabled: 1
+    path: Assets/01.Scenes/Win.unity
+    guid: 41c6e9c5ec39ed34d946864d3ccc3431
+  m_configObjects: {}
